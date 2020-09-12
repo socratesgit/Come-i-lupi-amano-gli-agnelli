@@ -4,6 +4,10 @@
 \PassOptionsToPackage{bookmarks, colorlinks=false, hidelinks}{hyperref}
 % Use PoetryTeX; http://www.ctan.org/pkg/poetrytex
 \usepackage[numberpoems, clearpageafterpoem, useincipits]{poetrytex}
+\usepackage{dirtytalk}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[italian]{babel}
 
 % Use the PA5 paper size
 \usepackage[paperwidth=140mm,paperheight=210mm]{geometry}
@@ -45,7 +49,7 @@ Allo stesso modo, per contrasto, \\*
 con le mie incomprensioni e le mie partigianerie, \\*
 sono i libri che non ho letto. \\*
 Gramsci diceva \\*
-"ognuno è conformista di un qualche conformismo". \\*
+\say{ognuno è conformista di un qualche conformismo}. \\*
 La mia presunta originalità non fa eccezione. \\*
 Se non cito tutte le fonti \\*
 è perchè il plagio è diventato, per me, \\*
@@ -146,8 +150,8 @@ Mentre ti spiego, tu \\*
 confusa mi guardi, \\*
 giri un poco gli occhi, inclini \\*
 la testa da un lato, mi chiedi: \\*
-"Ma il poeta? \\*
-Il poeta dov'è?" \\*
+\say{Ma il poeta? \\*
+Il poeta dov'è?} \\*
 \end{altverse}
 
 \begin{altverse}
@@ -158,8 +162,8 @@ come un buon regista alla sua prima. \\*
 
 \begin{altverse}
 E mi chiedi: \\*
-"E io? \\*
-Io dove sono?" \\*
+\say{E io? \\*
+Io dove sono?} \\*
 \end{altverse}
 
 \begin{altverse}
@@ -532,8 +536,8 @@ ha un'ala spezzata e non può volare.
 
 \begin{altverse}
 Tutti gli altri mi dicono:\\*
-"La vita è bella!\\*
-La vita è lunga!"\\*
+\say{La vita è bella!\\*
+La vita è lunga!}\\*
 E io abbozzo e svicolo\\*
 e provo a ridere per compiacerli,\\*
 ma sono un ragazzo triste\\*
@@ -543,8 +547,8 @@ e le parole felici mi si incastrano in gola.
 
 \begin{altverse}
 Quelli mi dicono:\\*
-"La vita fa i limoni,\\*
-tu facci una limonata!"\\*
+\say{La vita fa i limoni,\\*
+tu facci una limonata!}\\*
 Ma io sono un ragazzo triste\\*
 e penso che è una frase fatta\\*
 e penso che è un falso proverbio.
@@ -553,10 +557,10 @@ e penso che è un falso proverbio.
 
 \begin{altverse}
 Allora quelli mi dicono:\\*
-"Vattene! ci metti tristezza."\\*
-E io dico "volentieri"\\*
+\say{Vattene! ci metti tristezza.}\\*
+E io dico \say{volentieri}\\*
 ma rimango,\\*
-"ancora qualche minuto" dico\\*
+\say{ancora qualche minuto} dico\\*
 e mi invento qualche grave lutto,\\*
 un incidente, una donna\\*
 e quelli mi offrono una birra\\*
@@ -741,8 +745,8 @@ come una vecchia amica malata.
 \end{altverse}
 
 \begin{altverse}
-"Che fai?" mi chiede.\\*
-"Ti evito" rispondo.
+\say{Che fai?} mi chiede.\\*
+\say{Ti evito} rispondo.
 \end{altverse}
 
 \begin{altverse}
@@ -790,12 +794,9 @@ o sotto nessuna.
 
 \begin{poem}{Milano}{}
 
-\settowidth{\versewidth}{non meno è ciò che meriti.}
-
 
 \begin{altverse}
-% Incipits are used in the ToP if no title is given.
-\incipit{}
+
 Questa notte sognavo\\*
 una chiatta ormeggiata\\*
 davanti al Duomo.\\*
@@ -843,6 +844,7 @@ piena di sabbia\\*
 ormeggiata davanti al Duomo.\\*
 \end{altverse}
 
+
 \end{poem}
 
 \begin{poem}{Haiku I}{}
@@ -855,7 +857,6 @@ ormeggiata davanti al Duomo.\\*
 candido germoglio,\\*
 viso d'inverno.
 \end{altverse}
-
 
 \end{poem}
 
@@ -978,8 +979,6 @@ di tutte le cose.
 \end{poem}
 
 \begin{poem}{}{}
-
-\settowidth{\versewidth}{non meno è ciò che meriti.}
 
 \begin{altverse}
 % Incipits are used in the ToP if no title is given.
