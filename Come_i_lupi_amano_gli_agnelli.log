@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.8.1)  12 SEP 2020 17:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.8.1)  19 SEP 2020 12:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -704,14 +704,14 @@ LaTeX Info: Redefining \it@ccap on input line 29.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(47.80112pt, 278.83578pt, 71.70168pt)
+* h-part:(L,W,R)=(52.92267pt, 308.71104pt, 79.384pt)
 * v-part:(T,H,B)=(71.70166pt, 418.25368pt, 107.55254pt)
-* \paperwidth=398.33858pt
+* \paperwidth=441.01772pt
 * \paperheight=597.50787pt
-* \textwidth=278.83578pt
+* \textwidth=308.71104pt
 * \textheight=418.25368pt
-* \oddsidemargin=-24.46887pt
-* \evensidemargin=-0.56831pt
+* \oddsidemargin=-19.34732pt
+* \evensidemargin=7.11401pt
 * \topmargin=-32.44212pt
 * \headheight=12.0pt
 * \headsep=19.8738pt
@@ -811,13 +811,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--92
 
 ] [25
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+] [26
 
- [26
-
-]
-[27] [28
+] [27] [28
 
 ] [29
 
@@ -825,7 +821,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ] [31
 
-] [32
+]
+[32
 
 ] [33
 
@@ -833,28 +830,33 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ] [35
 
-]
-(./Come_i_lupi_amano_gli_agnelli.aux) ) 
+] [36
+
+] [37
+
+] [38
+
+] (./Come_i_lupi_amano_gli_agnelli.aux) ) 
 Here is how much of TeX's memory you used:
- 11109 strings out of 492982
- 203793 string characters out of 6134897
- 247972 words of memory out of 5000000
- 14626 multiletter control sequences out of 15000+600000
+ 11113 strings out of 492982
+ 203853 string characters out of 6134897
+ 247970 words of memory out of 5000000
+ 14630 multiletter control sequences out of 15000+600000
  543047 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,6n,31p,10392b,397s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-sup
-er/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb><
-/usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fon
-ts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-s
-uper/sfcc1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></
-usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/font
-s/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/cm-su
-per/sfsl1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on Come_i_lupi_amano_gli_agnelli.pdf (41 pages, 155963 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-s
+uper/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/f
+onts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm
+-super/sfcc1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
+</usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fo
+nts/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/cm-
+super/sfsl1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on Come_i_lupi_amano_gli_agnelli.pdf (44 pages, 157124 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 121 compressed objects within 2 object streams
+ 185 PDF objects out of 1000 (max. 8388607)
+ 128 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
